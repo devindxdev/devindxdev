@@ -1,23 +1,30 @@
-# 💫About Me :
-- 🔭 I’m currently working on ThrottleBot Verification
-- 🌱 I’m currently learning ReactJS
-- 💬 Ask me about JavaScript & Python
-- 📫 My Discord username Davidddddddd#7076
-- ⚡ Fun fact: You're reading my about me right now.
+### <br><div align="center">I'm Devind Dev, A JavaScript developer currently in my first Year of Compsci at TRU!</div>  
+<br>
 
-# 💻Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=davidxdeveloper&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=davidxdeveloper&theme=radical&hide_border=true)<br/>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=davidxdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/throttlebot) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/throttlebot) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/throttlebot) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I’m currently working on Project Vivian  
   
+
+- 🌱 I’m currently learning Flutter   
+  
+
+- ❓ Ask me about anything related to Java, JavaScript or Python  
+  
+
+- ⚡ Fun fact: You're reading this right now  
+  
+  
+## Side Projects 👨‍💻
+
+- Project Vivian - The ultimate student social network! Stay in the loop with your friends and never miss a chance to hangout. Get real-time updates on your friends' class schedules and availability, so you always know when they're free. Chat and plan your next adventure on campus with ease. Get to know about all the campus events and activities taking place during your free time and maybe even go on a quick coffee date or two with someone new. Make the most of your university experience with [Project Vivian]"
+
+- ThrottleBot - This project aims to educate young individuals on the basics of cryptocurrency investing through simulated experience on Discord. Utilizing a fake currency, users will be able to make investment decisions and see their returns in real-time, based on real market prices obtained through the CoinMarketCap API. The goal is to provide a hands-on learning opportunity that demystifies the world of crypto investing and empowers the next generation to make informed financial decisions.
+
+- ThrottleBot-Verification - ThrottleBot Verification is a comprehensive vehicle verification system designed for the popular chat platform, Discord. Currently serving 160,000 users, this project streamlines the process of verifying the authenticity of vehicles on Discord, providing a secure and efficient solution for automotive enthusiasts. The platform offers an easy-to-use interface, allowing users to quickly verify the ownership and history of their vehicles, ensuring that all interactions are legitimate and transparent. Whether you're a collector, dealer, or enthusiast, ThrottleBot Verification provides peace of mind for all automotive-related transactions.
+
+Featured in the [AR12Gaming](https://discord.gg/ar12) server and the biggest automotive discord, [The Car Community](https://discord.gg/cars) along with many others.
+
+
+## Education 📚
+
+- Currently studying Computer Science at Thompson Rivers University, Canada
+- Indian School Muscat, Oman
