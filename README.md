@@ -10,7 +10,7 @@ I build and maintain software for connected vehicles, automotive communities, an
 
 ### [Bluelocke](https://github.com/devindxdev/bluelocke)
 
-**[628 release downloads](https://github.com/devindxdev/bluelocke/releases) · 27 published releases, including betas · 3 vehicle brands**
+**[628 release downloads](https://github.com/devindxdev/bluelocke/releases)**
 
 Develop and maintain an iOS companion for Hyundai, Kia, and Genesis vehicles, built with TypeScript and Scriptable.
 
