@@ -2,39 +2,46 @@
 
 **Software developer focused on AI tools and automation.**
 
-I build software that connects services, simplifies everyday tasks, and helps communities get things done. My projects span connected vehicles, Discord tools, and student apps.
+I build and maintain software for connected vehicles, automotive communities, and student life. My work combines API integrations, AI-assisted workflows, and tools people can use in their everyday lives.
 
 [Email](mailto:hello@devind.dev) · [Explore my repositories](https://github.com/devindxdev?tab=repositories)
-
-## Current focus
-
-- Turning AI capabilities into useful tools with clear workflows and human oversight.
-- Connecting APIs and services to automate repetitive tasks.
-- Making the products I build easier to use, maintain, and trust.
 
 ## Selected projects
 
 ### [Bluelocke](https://github.com/devindxdev/bluelocke)
 
-**Vehicle controls, built into everyday iOS workflows.**
+**[628 release downloads](https://github.com/devindxdev/bluelocke/releases) · 27 published releases, including betas · 3 vehicle brands**
 
-An iOS companion for Hyundai, Kia, and Genesis vehicles, built with TypeScript and Scriptable. It brings vehicle status and controls to home and lock screen widgets, Siri, and Shortcuts.
+Develop and maintain an iOS companion for Hyundai, Kia, and Genesis vehicles, built with TypeScript and Scriptable.
 
-My work builds on an open-source foundation, with a focus on hybrid and EV support, customizable widgets, and walk-away lock automation.
+- Extended an existing open source project with hybrid and EV support, customizable widgets, and walk-away lock automation.
+- Brought vehicle status and controls to home and lock screen widgets, Siri, and Shortcuts.
+- Ship releases with an in-app update flow and regression checks for authentication, vehicle status, and app behavior.
 
 ### [ThrottleBot](https://github.com/devindxdev/throttlebot-verification)
 
-**Vehicle verification and digital garages for Discord communities.**
+**100 Discord servers · 222,333 combined server memberships**
 
-A platform for automotive communities to review vehicle submissions, manage garages, and share vehicle details. It combines AI-assisted specifications with human review, admin tools, and usage and verification statistics.
+Built and operate a vehicle verification and digital garage platform used by automotive communities including AR12Gaming and The Car Community.
 
-Used by communities including AR12Gaming and The Car Community. Built with Node.js, discord.js, MongoDB, and the OpenAI API.
+- **5,828 verified-vehicle garage entries** and **7,349 verification applications** recorded.
+- Integrated AI-assisted vehicle review and specification generation, with staff review and override workflows.
+- Built verification statistics, review turnaround reporting, and a live status API to support ongoing operations.
+
+**Stack:** Node.js, discord.js, MongoDB, OpenAI API. [Live stats](https://throttlebot-verify.herokuapp.com/status)
 
 ### [Univolve](https://github.com/devindxdev/UnivolveApp)
 
-**Campus events and conversations in one place.**
+**Development lead · team of 5 · Flutter + Firebase**
 
-Co-developed a Flutter and Firebase app for students at Thompson Rivers University. It brings campus event discovery, personalized academic dashboards, course group chats, and real-time messaging into a single experience.
+Led development of a student app for Thompson Rivers University, bringing campus event discovery, personalized academic dashboards, course group chats, and real-time messaging into one experience.
+
+- Delivered a shared platform for campus information and student conversations.
+- Integrated Firebase authentication and real-time data synchronization across the app.
+
+## Current focus
+
+Building AI tools and automation that connect services, simplify repetitive tasks, and keep people in control of important decisions.
 
 ## Tools I work with
 
@@ -45,4 +52,6 @@ Co-developed a Flutter and Firebase app for students at Thompson Rivers Universi
 
 ## Connect
 
-Interested in AI tools, automation, or community software? [Email me at hello@devind.dev.](mailto:hello@devind.dev)
+For software engineering opportunities, AI tools, or automation projects, [email me at hello@devind.dev](mailto:hello@devind.dev).
+
+<sub>Metrics checked November 8, 2026. Downloads count release assets; server membership is aggregated across communities.</sub>
