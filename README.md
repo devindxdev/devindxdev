@@ -20,7 +20,7 @@ Develop and maintain an iOS companion for Hyundai, Kia, and Genesis vehicles, bu
 
 ### [ThrottleBot](https://github.com/devindxdev/throttlebot-verification)
 
-**100 Discord servers · 222,333 combined server memberships**
+**Serving 222,333 members**
 
 Built and operate a vehicle verification and digital garage platform used by automotive communities including AR12Gaming and The Car Community.
 
