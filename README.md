@@ -1,36 +1,50 @@
-### <br><div align="center">Hi, I'm Devind Dev! 👋 <br> Passionate Software Developer on a mission to build impactful solutions.</div> <br>
+# Hi, I'm Devind Dev
 
+**Software developer focused on AI tools and automation.**
 
-🔭 Currently working on Rust+Go projects <br>
+I build software that connects services, simplifies everyday tasks, and helps communities get things done. My projects span connected vehicles, Discord tools, and student apps.
 
-🌱 Exploring Zig for expanding my toolkit <br>
+[LinkedIn](https://www.linkedin.com/in/devindxdev/) · [Explore my repositories](https://github.com/devindxdev?tab=repositories)
 
-❓ Ask me about Rust, Go, JavaScript, or Python <br>
+## Current focus
 
-⚡ Fun fact: I’m always looking for ways to make a meaningful difference through code! <br>
-<br>
+- Turning AI capabilities into useful tools with clear workflows and human oversight.
+- Connecting APIs and services to automate repetitive tasks.
+- Making the products I build easier to use, maintain, and trust.
 
-## Side Projects 👨‍💻
+## Selected projects
 
-- Verbi<br>
-A study companion web app built to make learning more interactive and personalized. Verbi generates quizzes tailored to the user’s learning style, tracks progress, and turns any text, PDFs, slides, notes—into engaging study content. Designed to adapt to a range of topics, Verbi brings an AI-driven approach to studying, making it smarter and more effective.
-Education 📚
+### [Bluelocke](https://github.com/devindxdev/bluelocke)
 
-- Univolve<br>
-An AI-powered social platform for students that I co-developed to enhance campus engagement. It centralizes event information, provides real-time chat, and includes personalized recommendations, making it easy for students to stay connected and involved. The project received enthusiastic feedback from peers and has become a valuable tool for students at Thompson Rivers University.
+**Vehicle controls, built into everyday iOS workflows.**
 
-- ThrottleBot<br>
-A unique Discord project that combines vehicle customization with real-time financial simulation. Users can buy, repair, and personalize scrapped cars, while also engaging with a simulated cryptocurrency and stock market. In addition to these game-like features, ThrottleBot includes a robust vehicle verification system, providing authenticity checks for automotive enthusiasts, collectors, and dealers. Currently serving over 200,000 users, ThrottleBot ensures secure and transparent transactions for the Discord automotive community.
+An iOS companion for Hyundai, Kia, and Genesis vehicles, built with TypeScript and Scriptable. It brings vehicle status and controls to home and lock screen widgets, Siri, and Shortcuts.
 
+My work builds on an open-source foundation, with a focus on hybrid and EV support, customizable widgets, and walk-away lock automation.
 
-## Education 📚
+[Documentation & setup](https://devindxdev.github.io/bluelocke/)
 
-- Currently studying Computer Science at Thompson Rivers University, Canada
+### [ThrottleBot](https://github.com/devindxdev/throttlebot-verification)
 
-## Tech Stack 🛠️
+**Vehicle verification and digital garages for Discord communities.**
 
-- Languages: Rust, Go, JavaScript, Python<br>
+A platform for automotive communities to review vehicle submissions, manage garages, and share vehicle details. It combines AI-assisted specifications with human review, admin tools, and usage and verification statistics.
 
-- Tools & Platforms: Docker, AWS, MongoDB, SQL, Flutter, GitHub<br>
+Used by communities including AR12Gaming and The Car Community. Built with Node.js, discord.js, MongoDB, and the OpenAI API.
 
-- Frameworks: React.js, Node.js, Flask<br>
+### [Univolve](https://github.com/devindxdev/UnivolveApp)
+
+**Campus events and conversations in one place.**
+
+Co-developed a Flutter and Firebase app for students at Thompson Rivers University. It brings campus event discovery, personalized academic dashboards, course group chats, and real-time messaging into a single experience.
+
+## Tools I work with
+
+- **Languages:** TypeScript, JavaScript, Python, Dart
+- **Apps & backend:** Node.js, discord.js, Flutter
+- **Data:** MongoDB, Firebase
+- **AI & automation:** OpenAI API, API integrations, Scriptable, Siri & Shortcuts, GitHub Actions
+
+## Connect
+
+Interested in AI tools, automation, or community software? [Let's connect on LinkedIn.](https://www.linkedin.com/in/devindxdev/)
