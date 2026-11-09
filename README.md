@@ -4,7 +4,7 @@
 
 I build software that connects services, simplifies everyday tasks, and helps communities get things done. My projects span connected vehicles, Discord tools, and student apps.
 
-[LinkedIn](https://www.linkedin.com/in/devindxdev/) · [Explore my repositories](https://github.com/devindxdev?tab=repositories)
+[Email](mailto:hello@devind.dev) · [Explore my repositories](https://github.com/devindxdev?tab=repositories)
 
 ## Current focus
 
@@ -21,8 +21,6 @@ I build software that connects services, simplifies everyday tasks, and helps co
 An iOS companion for Hyundai, Kia, and Genesis vehicles, built with TypeScript and Scriptable. It brings vehicle status and controls to home and lock screen widgets, Siri, and Shortcuts.
 
 My work builds on an open-source foundation, with a focus on hybrid and EV support, customizable widgets, and walk-away lock automation.
-
-[Documentation & setup](https://devindxdev.github.io/bluelocke/)
 
 ### [ThrottleBot](https://github.com/devindxdev/throttlebot-verification)
 
@@ -47,4 +45,4 @@ Co-developed a Flutter and Firebase app for students at Thompson Rivers Universi
 
 ## Connect
 
-Interested in AI tools, automation, or community software? [Let's connect on LinkedIn.](https://www.linkedin.com/in/devindxdev/)
+Interested in AI tools, automation, or community software? [Email me at hello@devind.dev.](mailto:hello@devind.dev)
